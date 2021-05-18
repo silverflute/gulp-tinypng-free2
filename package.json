@@ -1,0 +1,30 @@
+{
+  "name": "gulp-tinypng-free2",
+  "version": "1.0.0",
+  "description": "压缩图片",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/silverflute/gulp-tinypng-free2.git"
+  },
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "gulp": "^4.0.2",
+    "gulp-util": "^3.0.8",
+    "request": "^2.88.2",
+    "through2": "^2.0.5"
+  },
+  "keywords": [
+    "tinypng",
+    "压缩图片"
+  ],
+  "author": "silverflute",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/silverflute/gulp-tinypng-free2/issues"
+  },
+  "homepage": "https://github.com/silverflute/gulp-tinypng-free2#readme"
+}
